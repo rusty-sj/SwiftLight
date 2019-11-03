@@ -15,6 +15,9 @@
 		D30B498E236E1768009AD036 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30B498C236E1768009AD036 /* LaunchScreen.storyboard */; };
 		D30B4999236E1769009AD036 /* SwiftLightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D30B4998236E1769009AD036 /* SwiftLightTests.swift */; };
 		D30B49A4236E1769009AD036 /* SwiftLightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D30B49A3236E1769009AD036 /* SwiftLightUITests.swift */; };
+		D30B49B2236E5194009AD036 /* icons8-flash-light-100.png in Resources */ = {isa = PBXBuildFile; fileRef = D30B49B1236E5194009AD036 /* icons8-flash-light-100.png */; };
+		D30B49B3236E5194009AD036 /* icons8-flash-light-100.png in Resources */ = {isa = PBXBuildFile; fileRef = D30B49B1236E5194009AD036 /* icons8-flash-light-100.png */; };
+		D30B49B4236E5194009AD036 /* icons8-flash-light-100.png in Resources */ = {isa = PBXBuildFile; fileRef = D30B49B1236E5194009AD036 /* icons8-flash-light-100.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		D30B499F236E1769009AD036 /* SwiftLightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D30B49A3236E1769009AD036 /* SwiftLightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLightUITests.swift; sourceTree = "<group>"; };
 		D30B49A5236E1769009AD036 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D30B49B1236E5194009AD036 /* icons8-flash-light-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-flash-light-100.png"; path = "../../../Downloads/icons8-flash-light-100.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +128,7 @@
 			children = (
 				D30B49A3236E1769009AD036 /* SwiftLightUITests.swift */,
 				D30B49A5236E1769009AD036 /* Info.plist */,
+				D30B49B1236E5194009AD036 /* icons8-flash-light-100.png */,
 			);
 			path = SwiftLightUITests;
 			sourceTree = "<group>";
@@ -235,6 +240,7 @@
 				D30B498E236E1768009AD036 /* LaunchScreen.storyboard in Resources */,
 				D30B498B236E1768009AD036 /* Assets.xcassets in Resources */,
 				D30B4989236E1767009AD036 /* Main.storyboard in Resources */,
+				D30B49B2236E5194009AD036 /* icons8-flash-light-100.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +248,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D30B49B3236E5194009AD036 /* icons8-flash-light-100.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D30B49B4236E5194009AD036 /* icons8-flash-light-100.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
